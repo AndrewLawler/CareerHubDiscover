@@ -4,4 +4,7 @@ body {
 
 nav {
     color: Blue;
+        height: 90px;
+    line-height: 90px;
+}
 }
